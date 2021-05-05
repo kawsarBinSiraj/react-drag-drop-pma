@@ -1,7 +1,6 @@
 # Getting Started with Create React App
-## DEMO : https://react-project-managment-app.netlify.app/
 
-![react-project-managment-app](https://user-images.githubusercontent.com/38612699/117105715-6a04bc80-ada0-11eb-98ee-c6d3d9434561.png)
+![react-project-management-app](https://user-images.githubusercontent.com/38612699/117184410-83d2ed80-adfa-11eb-966c-b83765130081.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
